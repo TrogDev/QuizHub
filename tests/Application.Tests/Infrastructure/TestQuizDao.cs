@@ -1,0 +1,1 @@
+namespace QuizHub.Application.Tests.Quizzes.Inrastructure;
